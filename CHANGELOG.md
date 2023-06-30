@@ -1,6 +1,15 @@
 # Version: 0.0.2
 ## 2023-06-30
 
+
+#### Unlabeled Changes
+
+* [#3](https://github.com/rjgill/test/pull/3): Release 0.0.1
+
+
+# Version: 0.0.2
+## 2023-06-30
+
 * [e8ccbbc](https://github.com/rjgill/test/commit/e8ccbbc537660fa0e21ac74deedfe31c1c4de498): Release 0.0.1 (#3)
 
 * Create main.yml
