@@ -1,3 +1,12 @@
+# Version: 0.0.4
+## 2023-06-30
+
+
+#### Unlabeled Changes
+
+* [#10](https://github.com/rjgill/test/pull/10): some feature PR going into develop
+
+
 # Version: 0.0.3
 ## 2023-06-30
 
